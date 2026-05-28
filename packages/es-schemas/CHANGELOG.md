@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/elastic/cli/compare/es-schemas-v1.0.1...es-schemas-v1.0.2) (2026-05-28)
+
+
+### Bug Fixes
+
+* **es:** Accept array _source in search bodies ([#370](https://github.com/elastic/cli/issues/370)) ([51b4bfe](https://github.com/elastic/cli/commit/51b4bfeba9d082cc3edd5fec4fd4683ae6d852be))
+
 ## [1.0.1](https://github.com/elastic/cli/compare/es-schemas-v1.0.0...es-schemas-v1.0.1) (2026-05-13)
 
 
